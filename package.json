@@ -1,6 +1,9 @@
 {
-  "name": "NoteTake",
+  "name": "using-pre-built-react-components-completed",
   "version": "1.0.0",
+  "engines": {
+    "node": "16.13.0"
+  },
   "description": "",
   "keywords": [],
   "main": "src/index.js",
